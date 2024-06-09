@@ -1,0 +1,15 @@
+# ignore specific folder
+*/OUTPUT
+OUTPUT/
+dist/
+build/
+*/dist
+*/build
+*.csv
+*.zip
+*.exe
+
+# environment folders
+env-tutorial/
+.env*/
+.env-python*/
