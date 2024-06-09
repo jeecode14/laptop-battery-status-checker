@@ -1,0 +1,6 @@
+notification==0.2.1
+plyer==2.1.0
+psutil==5.9.8
+pyasn1==0.6.0
+PySimpleGUI==5.0.5
+rsa==4.9
